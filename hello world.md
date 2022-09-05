@@ -4,8 +4,8 @@ hello world
 
 **Who create bold text**
 
-*   Text 1 
-*   Text 1 
-*   Text 1 
+* text 1
+* text 2
+* text 3
 
 начинаем наш файл с контролем версий 
