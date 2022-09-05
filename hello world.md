@@ -1,4 +1,6 @@
-hello world 
+# first version control file
+
+## basics
 
 *Как создать курсивный текст*
 
@@ -12,4 +14,3 @@ hello world
 2. text 2
 3. text 3
 
-начинаем наш файл с контролем версий 
