@@ -8,4 +8,8 @@ hello world
 * text 2
 * text 3
 
+1. text 1
+2. text 2
+3. text 3
+
 начинаем наш файл с контролем версий 
