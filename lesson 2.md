@@ -4,7 +4,7 @@
 
 ## Lists
 
-    fuck you 
+    text about lists
 
 ## Image manipulation 
 
