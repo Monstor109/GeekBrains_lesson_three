@@ -7,8 +7,8 @@
 ## Lists
 
 ## Image manipulation 
-
-    ![Ярлык](1.png)
+     
+    ![]() Почему то не работет 
 
 ## Links
 
