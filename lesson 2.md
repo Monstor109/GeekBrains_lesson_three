@@ -8,6 +8,8 @@
 
 ## Image manipulation 
 
+    ![Ярлык](1.png)
+
 ## Links
 
 ## Tables
